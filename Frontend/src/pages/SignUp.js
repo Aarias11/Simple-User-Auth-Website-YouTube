@@ -81,8 +81,8 @@ function SignUp() {
                 type='submit'>Sign Up</button>
             </form>
         </div>
-        <div className='w-[50%] h-[100%] flex justify-center bg-teal-800'>
-            <h2 className='text-3xl text-white translate-y-[40%]'>Sign Up</h2>
+        <div className='w-[50%] h-[100%] flex justify-center items-center bg-teal-800'>
+            <h2 className='text-3xl text-white'>Sign Up</h2>
         </div>
     </div>
   )
